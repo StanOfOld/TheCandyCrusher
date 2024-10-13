@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38d60908a61668748923778dca6e53e0, type: 3}
+  m_Name: Bottle
+  m_EditorClassIdentifier: 
+  candyType: Alcohol
+  sprite: {fileID: 21300000, guid: aab96ec423668af4b895f5c5b943326c, type: 3}
