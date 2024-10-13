@@ -1,6 +1,6 @@
 Candy Crush clone "The Candy Crusher"
 
-Credits: David Perron
+Credits: David
 Unity Version: 2022.3.29f1
 
 Import the project through unity. To build, use the build feature
